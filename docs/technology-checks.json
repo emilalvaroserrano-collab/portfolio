@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Dart",
+    "url": "https://dart.dev/",
+    "checkedAt": "2026-10-08T09:14:54.618269+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://dart.dev/",
+    "title": "Dart programming language"
+  },
+  {
+    "name": "Python",
+    "url": "https://www.python.org/",
+    "checkedAt": "2026-10-08T09:14:54.619303+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.python.org/",
+    "title": ""
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "checkedAt": "2026-10-08T09:14:54.621035+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "title": "JavaScript | MDN MDN MDN Mozilla"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/",
+    "checkedAt": "2026-10-08T09:14:54.622006+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.typescriptlang.org/",
+    "title": "TypeScript: JavaScript With Syntax For Types."
+  },
+  {
+    "name": "HTML",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "checkedAt": "2026-10-08T09:14:54.623465+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "title": "HTML: HyperText Markup Language | MDN MDN MDN Mozilla"
+  },
+  {
+    "name": "CSS",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "checkedAt": "2026-10-08T09:14:54.624292+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "title": "CSS: Cascading Style Sheets | MDN MDN MDN Mozilla"
+  },
+  {
+    "name": "SQL",
+    "url": "https://www.postgresql.org/docs/current/sql.html",
+    "checkedAt": "2026-10-08T09:14:54.625696+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.postgresql.org/docs/current/sql.html",
+    "title": "PostgreSQL: Documentation: 18: Part\u00a0II.\u00a0The SQL Language"
+  },
+  {
+    "name": "Flutter",
+    "url": "https://flutter.dev/",
+    "checkedAt": "2026-10-08T09:14:54.626843+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://flutter.dev/",
+    "title": "Flutter - Build apps for any screen"
+  },
+  {
+    "name": "React",
+    "url": "https://react.dev/",
+    "checkedAt": "2026-10-08T09:14:54.627268+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://react.dev/",
+    "title": "React"
+  },
+  {
+    "name": "Vite",
+    "url": "https://vite.dev/",
+    "checkedAt": "2026-10-08T09:14:54.628004+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://vite.dev/",
+    "title": "Vite | Next Generation Frontend Tooling"
+  },
+  {
+    "name": "Android",
+    "url": "https://developer.android.com/",
+    "checkedAt": "2026-10-08T09:15:01.169584+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.android.com/",
+    "title": "Android Mobile App Developer Tools - Android Developers"
+  },
+  {
+    "name": "Electron",
+    "url": "https://www.electronjs.org/",
+    "checkedAt": "2026-10-08T09:15:01.293602+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.electronjs.org/",
+    "title": "Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron"
+  },
+  {
+    "name": "Node.js",
+    "url": "https://nodejs.org/",
+    "checkedAt": "2026-10-08T09:15:01.347110+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://nodejs.org/en",
+    "title": "Node.js \u2014 Run JavaScript Everywhere"
+  },
+  {
+    "name": "REST APIs",
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+    "checkedAt": "2026-10-08T09:15:01.369040+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+    "title": "REST - Glossary | MDN MDN MDN Mozilla"
+  },
+  {
+    "name": "WebSockets",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+    "checkedAt": "2026-10-08T09:15:01.377988+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+    "title": "WebSocket API (WebSockets) - Web APIs | MDN MDN MDN Mozilla"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org/",
+    "checkedAt": "2026-10-08T09:15:01.439524+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.postgresql.org/",
+    "title": "PostgreSQL: The world's most advanced open source database"
+  },
+  {
+    "name": "Prisma",
+    "url": "https://www.prisma.io/",
+    "checkedAt": "2026-10-08T09:15:01.447584+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.prisma.io/",
+    "title": "Prisma | Agent Infrastructure for TypeScript"
+  },
+  {
+    "name": "Firebase RTDB",
+    "url": "https://firebase.google.com/docs/database",
+    "checkedAt": "2026-10-08T09:15:01.564748+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://firebase.google.com/docs/database",
+    "title": "Firebase Realtime Database"
+  },
+  {
+    "name": "Local storage",
+    "url": "https://docs.flutter.dev/cookbook/persistence",
+    "checkedAt": "2026-10-08T09:15:01.572822+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://docs.flutter.dev/cookbook/persistence",
+    "title": "Flutter persistence cookbook"
+  },
+  {
+    "name": "LLM systems",
+    "url": "https://ollama.com/",
+    "checkedAt": "2026-10-08T09:15:03.594901+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ollama.com/",
+    "title": "Ollama"
+  },
+  {
+    "name": "RAG",
+    "url": "https://huggingface.co/docs/transformers/model_doc/rag",
+    "checkedAt": "2026-10-08T09:15:05.153176+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/docs/transformers/model_doc/rag",
+    "title": "RAG \u00b7 Hugging Face"
+  },
+  {
+    "name": "Agentic AI",
+    "url": "https://huggingface.co/learn/agents-course/",
+    "checkedAt": "2026-10-08T09:15:06.179278+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/learn/agents-course/unit0/introduction",
+    "title": "Welcome to the \ud83e\udd17 AI Agents Course \u00b7 Hugging Face"
+  },
+  {
+    "name": "Multimodal",
+    "url": "https://huggingface.co/docs/transformers/tasks",
+    "checkedAt": "2026-10-08T09:15:06.187006+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/docs/transformers/tasks",
+    "title": ""
+  },
+  {
+    "name": "GGUF",
+    "url": "https://github.com/ggml-org/ggml/blob/master/docs/gguf.md",
+    "checkedAt": "2026-10-08T09:15:06.190914+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/ggml-org/ggml/blob/master/docs/gguf.md",
+    "title": "ggml/docs/gguf.md at master \u00b7 ggml-org/ggml \u00b7 GitHub"
+  },
+  {
+    "name": "ONNX",
+    "url": "https://onnx.ai/",
+    "checkedAt": "2026-10-08T09:15:06.193448+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://onnx.ai/",
+    "title": "ONNX | Home"
+  },
+  {
+    "name": "Ollama",
+    "url": "https://ollama.com/",
+    "checkedAt": "2026-10-08T09:15:06.331799+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ollama.com/",
+    "title": "Ollama"
+  },
+  {
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "checkedAt": "2026-10-08T09:15:06.517224+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/ggml-org/llama.cpp",
+    "title": "GitHub - ggml-org/llama.cpp: LLM inference in C/C++ \u00b7 GitHub"
+  },
+  {
+    "name": "whisper.cpp",
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "checkedAt": "2026-10-08T09:15:06.864696+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/ggml-org/whisper.cpp",
+    "title": "GitHub - ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++ \u00b7 GitHub"
+  },
+  {
+    "name": "Linux",
+    "url": "https://www.kernel.org/",
+    "checkedAt": "2026-10-08T09:15:09.184300+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.kernel.org/",
+    "title": "The Linux Kernel Archives"
+  },
+  {
+    "name": "Ubuntu",
+    "url": "https://ubuntu.com/",
+    "checkedAt": "2026-10-08T09:15:09.454630+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ubuntu.com/",
+    "title": "Enterprise Open Source and Linux | Ubuntu"
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/",
+    "checkedAt": "2026-10-08T09:15:10.016044+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.docker.com/",
+    "title": "Docker | Secure Sandboxes for AI Agents"
+  },
+  {
+    "name": "VPS",
+    "url": "https://ubuntu.com/server",
+    "checkedAt": "2026-10-08T09:15:10.424671+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ubuntu.com/server",
+    "title": "Ubuntu Server - for scale out workloads | Ubuntu"
+  },
+  {
+    "name": "NVIDIA GPU",
+    "url": "https://www.nvidia.com/en-us/data-center/",
+    "checkedAt": "2026-10-08T09:15:10.429216+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://www.nvidia.com/en-us/data-center/",
+    "title": "Data Centers Built for Advanced AI Reasoning | NVIDIA NVIDIA Home Menu Menu Close Close Close Caret down icon Caret down icon Caret up icon Caret right icon Caret right icon Caret "
+  },
+  {
+    "name": "ngrok",
+    "url": "https://ngrok.com/",
+    "checkedAt": "2026-10-08T09:15:10.887512+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://ngrok.com/",
+    "title": "ngrok: deliver your apps, APIs, and AI on local and prod"
+  },
+  {
+    "name": "Git",
+    "url": "https://git-scm.com/",
+    "checkedAt": "2026-10-08T09:15:10.931905+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://git-scm.com/",
+    "title": "Git"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/emilalvaroserrano-collab",
+    "checkedAt": "2026-10-08T09:15:10.947869+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/emilalvaroserrano-collab",
+    "title": "emilalvaroserrano-collab \u00b7 GitHub"
+  },
+  {
+    "name": "Gemma",
+    "url": "https://ai.google.dev/gemma",
+    "checkedAt": "2026-10-08T09:15:13.534361+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://deepmind.google/models/gemma/",
+    "title": ""
+  },
+  {
+    "name": "Qwen",
+    "url": "https://qwen.ai/",
+    "checkedAt": "2026-10-08T09:15:14.067628+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://qwen.ai/",
+    "title": "Qwen"
+  },
+  {
+    "name": "TranslateGemma",
+    "url": "https://www.kaggle.com/models/google/translategemma",
+    "httpStatus": 200,
+    "finalUrl": "https://www.kaggle.com/models/google/translategemma",
+    "title": "Google | TranslateGemma | Kaggle",
+    "checkedAt": "2026-10-08T09:19:52.439971+00:00",
+    "discoveredFrom": "https://ai.google.dev/gemma/docs/releases"
+  },
+  {
+    "name": "Whisper",
+    "url": "https://github.com/openai/whisper",
+    "checkedAt": "2026-10-08T09:15:14.304326+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/openai/whisper",
+    "title": "GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision \u00b7 GitHub"
+  },
+  {
+    "name": "Sherpa-ONNX",
+    "url": "https://github.com/k2-fsa/sherpa-onnx",
+    "checkedAt": "2026-10-08T09:15:14.447832+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/k2-fsa/sherpa-onnx",
+    "title": "GitHub - k2-fsa/sherpa-onnx: Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Inter"
+  },
+  {
+    "name": "Kokoro",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "checkedAt": "2026-10-08T09:15:14.502049+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "title": "hexgrad/Kokoro-82M \u00b7 Hugging Face"
+  },
+  {
+    "name": "Piper",
+    "url": "https://github.com/OHF-Voice/piper1-gpl",
+    "checkedAt": "2026-10-08T09:15:14.615804+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/OHF-Voice/piper1-gpl",
+    "title": "GitHub - OHF-Voice/piper1-gpl: Fast and local neural text-to-speech engine \u00b7 GitHub"
+  },
+  {
+    "name": "Chatterbox",
+    "url": "https://github.com/resemble-ai/chatterbox",
+    "checkedAt": "2026-10-08T09:15:16.723407+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/resemble-ai/chatterbox",
+    "title": "GitHub - resemble-ai/chatterbox: SoTA open-source TTS \u00b7 GitHub"
+  },
+  {
+    "name": "Supertonic",
+    "url": "https://github.com/supertone-oss-archive/supertonic",
+    "checkedAt": "2026-10-08T09:15:18.042842+00:00",
+    "httpStatus": 200,
+    "finalUrl": "https://github.com/supertone-oss-archive/supertonic",
+    "title": "GitHub - supertone-oss-archive/supertonic: Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX. \u00b7 GitHub"
+  }
+]

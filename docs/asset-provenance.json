@@ -1,0 +1,151 @@
+[
+  {
+    "asset": "html/inbio/assets/images/apps/eburon-logo.svg",
+    "type": "verified-brand-mark",
+    "sourceUrl": "https://eburon.ai",
+    "note": "Eburon corporate mark",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/apps/orbit-logo.png",
+    "type": "verified-brand-mark",
+    "sourceUrl": "https://meeting.eburon.ai/icons/icon-192x192.png",
+    "note": "Current Orbit Meeting application icon",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/apps/abitech-logo.png",
+    "type": "verified-brand-mark",
+    "sourceUrl": "https://abitech.site",
+    "note": "Current ABI Tech site mark",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/apps/dual-translator-logo.webp",
+    "type": "verified-brand-mark",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+    "note": "Publisher application icon",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/beatrice-signup.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/beatrice-signup.png",
+    "caption": "Public account creation screen",
+    "sourceUrl": "https://beatrice.eburon.ai/",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/orbit.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/orbit.png",
+    "caption": "Current public product page",
+    "sourceUrl": "https://meeting.eburon.ai",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/dual-app-1.webp",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/dual-app-1.webp",
+    "caption": "Publisher screenshot from Google Play",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/dual-app-2.webp",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/dual-app-2.webp",
+    "caption": "Publisher screenshot from Google Play",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/dual.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/dual.png",
+    "caption": "Public hardware/product page",
+    "sourceUrl": "https://eburon-technology.be/en/dual",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/dialer.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/dialer.png",
+    "caption": "Current public voice-call interface",
+    "sourceUrl": "https://192-888-702-801.site/dialer/",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/abitech.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/abitech.png",
+    "caption": "Current public homepage",
+    "sourceUrl": "https://abitech.site",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/eburon.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/eburon.png",
+    "caption": "Current public platform homepage",
+    "sourceUrl": "https://eburon.ai",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/catalog.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/catalog.png",
+    "caption": "Current public applications catalog",
+    "sourceUrl": "https://eburon.ai/apps/",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/movies.png",
+    "type": "actual-public-screenshot",
+    "src": "assets/images/screenshots/movies.png",
+    "caption": "Current public browsing interface",
+    "sourceUrl": "https://movie.eburon.ai",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/screenshots/store.png",
+    "type": "actual-public-screenshot",
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+    "capturedAt": "2026-10-08"
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/beatrice-voice.webp",
+    "type": "generated-concept-cover",
+    "note": "Illustration only; not a product screenshot or a photograph of owned infrastructure."
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/dual-translator.webp",
+    "type": "generated-concept-cover",
+    "note": "Illustration only; not a product screenshot or a photograph of owned infrastructure."
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/self-hosted-infrastructure.webp",
+    "type": "generated-concept-cover",
+    "note": "Illustration only; not a product screenshot or a photograph of owned infrastructure."
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/local-ai-runtime.svg",
+    "type": "resume-based-svg-overview"
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/codebox-system.svg",
+    "type": "resume-based-svg-overview"
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/mobile-edge-inference.svg",
+    "type": "resume-based-svg-overview"
+  },
+  {
+    "asset": "html/inbio/assets/images/portfolio/public-models.svg",
+    "type": "resume-based-svg-overview"
+  },
+  {
+    "asset": "html/inbio/assets/images/blog/product-delivery.svg",
+    "type": "resume-based-svg-process"
+  }
+]

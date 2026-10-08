@@ -1,0 +1,362 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1512,
+    "sha256": "a957f3e7975ea31150f4f72ecfa4c34032afc01e5c3ad1e413fc3533bf705a78"
+  },
+  {
+    "path": "docs/asset-provenance.json",
+    "bytes": 5516,
+    "sha256": "d524c2ad200fa9e33dccd0c8adef1abbfd8b864b8b844c0f1aab0147d3d763c4"
+  },
+  {
+    "path": "docs/browser-checks.json",
+    "bytes": 1364,
+    "sha256": "9508a498efb96bc60852871b9bd5e24e08eb813014a3bbd096edc38b03652549"
+  },
+  {
+    "path": "docs/repository-checks.json",
+    "bytes": 808,
+    "sha256": "c4bde0e0faa3fa5b8a043146a121712788e570a53ed8e8b46d8e1cda49b71a79"
+  },
+  {
+    "path": "docs/technology-checks.json",
+    "bytes": 12488,
+    "sha256": "e42b38ebbe5f61e864b4ef99d2b7322102d87a94d4e1a5d270a53ec5cbf9e3ed"
+  },
+  {
+    "path": "docs/url-checks.json",
+    "bytes": 6852,
+    "sha256": "abc765976f87f0c5db9eae974d40f0e8919722f282c8868a00275274f523c708"
+  },
+  {
+    "path": "docs/verification.md",
+    "bytes": 8791,
+    "sha256": "f599e097ed819604ce58dc221653911ffd87e5db1fb946934a268952257728d7"
+  },
+  {
+    "path": "html/inbio/assets/css/portfolio.css",
+    "bytes": 28216,
+    "sha256": "a2bab1a6eb5ff4ed3277bbb1aace0796bb5a77eb38a2ba241ea50ec272524759"
+  },
+  {
+    "path": "html/inbio/assets/css/style.css",
+    "bytes": 412073,
+    "sha256": "98787ea53e71a002fa3a5a2eb306dd6c160ed7d646f5bb6d6511947a050df96f"
+  },
+  {
+    "path": "html/inbio/assets/css/vendor/bootstrap.min.css",
+    "bytes": 212171,
+    "sha256": "ca5d83a16aa8ec086b3b22ecf1f50f5494f62c485b40d02484d857a931c3dda6"
+  },
+  {
+    "path": "html/inbio/assets/data/project-registry.json",
+    "bytes": 29638,
+    "sha256": "08a4660867e1fa7d12bd3a88afa408594d8747b1f061540a750f72d47fd671ff"
+  },
+  {
+    "path": "html/inbio/assets/docs/emil-alvaro-resume.pdf",
+    "bytes": 859981,
+    "sha256": "ddab2d8e4a30500a52353ee91ed5c2bb6df2d53663c90d2a8cc5cfbb052a28ac"
+  },
+  {
+    "path": "html/inbio/assets/images/apps/abitech-logo.png",
+    "bytes": 94263,
+    "sha256": "0601ad76651c21b925ba62e78afef4125c3e9c92009d6bbaf86bce54ae695e65"
+  },
+  {
+    "path": "html/inbio/assets/images/apps/dual-translator-logo.webp",
+    "bytes": 41700,
+    "sha256": "e39af5823b3a0c5e4c730895cf3e8ea2dc2cd17ab92006b248f0eea4bb051ed3"
+  },
+  {
+    "path": "html/inbio/assets/images/apps/eburon-logo.svg",
+    "bytes": 8789,
+    "sha256": "58b15a4d8967c073f0a1974a406645c9cf859a3aa0392b7d4d6fe7ecdbea3eba"
+  },
+  {
+    "path": "html/inbio/assets/images/apps/orbit-logo.png",
+    "bytes": 40282,
+    "sha256": "bf2eb3625f93951b4d65a57830f17f0ee8f77f6c81272a9964a782634be5ad35"
+  },
+  {
+    "path": "html/inbio/assets/images/blog/product-delivery.svg",
+    "bytes": 5055,
+    "sha256": "85d87d079becc7f94806e8ab8708083c09fbdef8f6709d28e37f758ac1ce6643"
+  },
+  {
+    "path": "html/inbio/assets/images/contact/emil-profile.png",
+    "bytes": 171744,
+    "sha256": "c84543d22d502e5b48e9b1d4f29541e410e79cc58a45d8fb86216eee909b5df4"
+  },
+  {
+    "path": "html/inbio/assets/images/logo/emil-favicon.svg",
+    "bytes": 181,
+    "sha256": "01ec542ed9b91cfeb032cb9724d380b9dfb1705cf05c29680fb0ce1afac8ebab"
+  },
+  {
+    "path": "html/inbio/assets/images/logo/logo.png",
+    "bytes": 29784,
+    "sha256": "fdf5a43bd7562336510b8e4e34b6e63525c60f9dbd71920531f895927b6f90ae"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/beatrice-voice.webp",
+    "bytes": 81460,
+    "sha256": "d047db9238fd1cd9d22e19df698b5613bbd98810dd63e2e1d9def7dd6d677296"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/codebox-system.svg",
+    "bytes": 3927,
+    "sha256": "5f36da30087e02d274698e3f70f940cb3c4d52e75ccab8293f5c9a5fb93d6cbb"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/dual-translator.webp",
+    "bytes": 102140,
+    "sha256": "5422192bc966fe0e6e153b2ee3af54378f91e860cf1329bf7c96d2e8c95e225d"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/local-ai-runtime.svg",
+    "bytes": 4142,
+    "sha256": "b6458b12bb52f8a9e00674d6c4dfda4cdd92fabb14f8de7bcfab25d58f5ca4e4"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/mobile-edge-inference.svg",
+    "bytes": 3687,
+    "sha256": "ecb62fddddfb718f98e4073aab7b07cf05d200e794f5737b6d0ece35db6eb6ac"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/public-models.svg",
+    "bytes": 3350,
+    "sha256": "e04fd2059f7e2042ff46d8740527f1218711da445f55af8b3d4010e093e02ede"
+  },
+  {
+    "path": "html/inbio/assets/images/portfolio/self-hosted-infrastructure.webp",
+    "bytes": 146832,
+    "sha256": "2f61f1e6cdaf0cef2668fd609f402a5026beb5a120c6a1e6d0aa8d30994bb63b"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/abitech.png",
+    "bytes": 459257,
+    "sha256": "7fa6308c385684d81bc48e9c6c8e325da1cb3a053e174ea5a15446e7169ff49a"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/beatrice-signup.png",
+    "bytes": 29853,
+    "sha256": "8860e8270d2c7bb3e060a910bb18220f5239528c4ccc7a810fed23e1fcf40792"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/catalog.png",
+    "bytes": 83313,
+    "sha256": "141d538317c6687f2d1f03cc80aafde1db7bdbe74b20b0ff38df8386400bc1bf"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/dialer.png",
+    "bytes": 322648,
+    "sha256": "d7c0af66d6caa9dc8b34aec5eef84dc50dd11d15802b72f5771387c1c42d6ef9"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/dual-app-1.webp",
+    "bytes": 146446,
+    "sha256": "5dc62f8d611c28c0d8ec3adc781671db2215f52a6b95d5bf4afb9d3854e9acc5"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/dual-app-2.webp",
+    "bytes": 45258,
+    "sha256": "9fa81abacf922eb8f1d5157518aa5071fe02a86fb70bf38afddbb0887cb6f341"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/dual.png",
+    "bytes": 637489,
+    "sha256": "f3c882394bea3e9559095e6aa070d47b89ad6a24b1170486b8ddae9a146a54af"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/eburon.png",
+    "bytes": 330504,
+    "sha256": "56bc62879612e5b9ebe2bed6612eb7efd26fd83b2c23534ef8318b965ebfb831"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/movies.png",
+    "bytes": 1233333,
+    "sha256": "e7e65739f43113cc01cf74c93994295b65acf97b6d3166c9b8fcb516f6733d0b"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/orbit.png",
+    "bytes": 508366,
+    "sha256": "daf3472c5b13efa7c13042d2813b993ef53e61daf69321c0c3752e5e2d5864aa"
+  },
+  {
+    "path": "html/inbio/assets/images/screenshots/store.png",
+    "bytes": 438436,
+    "sha256": "bc46898ed7d596e0b53a129da3360ffb35f9b40a12efb9f61791c63e9b39b16c"
+  },
+  {
+    "path": "html/inbio/assets/images/slider/emil-hero.png",
+    "bytes": 171744,
+    "sha256": "c84543d22d502e5b48e9b1d4f29541e410e79cc58a45d8fb86216eee909b5df4"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/android.svg",
+    "bytes": 3827,
+    "sha256": "d6c8aa6c2b94c90ff02c1b7e89f9cf863d54db59b459b8b287c19bfb8e664c41"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/css3.svg",
+    "bytes": 778,
+    "sha256": "36b7d94b657d571d3f94042acbf6a4c86a5301a222f83f4b4583ad2acf6e297d"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/dart.svg",
+    "bytes": 710,
+    "sha256": "8dec3d6f6d92d5c8db294baf7ea89cbad5c3dd0f7fde5ca972ffc6cebf9b2d40"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/docker.svg",
+    "bytes": 4452,
+    "sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/electron.svg",
+    "bytes": 1553,
+    "sha256": "b5cae00151e368734a36f261dc9a497a93bacad07cf609d75321ccd7e186a50a"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/firebase.svg",
+    "bytes": 680,
+    "sha256": "8534346c6590a6414cae0e58896295592b9b2081e955be999cd0963bd1b6158c"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/flutter.svg",
+    "bytes": 646,
+    "sha256": "c188249043aecad16b31eaa230474643270a8d8200b897af54a97949cb88e4ae"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/git.svg",
+    "bytes": 778,
+    "sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/github.svg",
+    "bytes": 1866,
+    "sha256": "45262793de6292206a895ed63593cdb1eaed82074173f7f4b5bdb3e427ca805a"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/html5.svg",
+    "bytes": 607,
+    "sha256": "34826e5b3315daadf4fa15f723a3c1d5ba4a89277bfd94e22ac4d7d3d54338c5"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/huggingface.svg",
+    "bytes": 3042,
+    "sha256": "2f949c226f0173d56de291ce09ff80e271f6169ccfcf72a935e6824d3c6ff97d"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/javascript.svg",
+    "bytes": 1144,
+    "sha256": "0656ff65fc8eeacda5c78d7f9ffe91ec1eb919db64f56e0b7dcd460af4bbd36c"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/linux.svg",
+    "bytes": 193922,
+    "sha256": "cf50ae4a263c6142963fad3561f7cb0311d0d41cc6189eadfb34f81a8a36acb0"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/ngrok.svg",
+    "bytes": 1092,
+    "sha256": "6ee778af7525c652e189fd7da950171d512c3688ddee9d5aa950c4bf98834fd4"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/nodejs.svg",
+    "bytes": 1806,
+    "sha256": "3218687c5ea24a4d4c0a33dc5c287da38c33a72dcfe9382469d7ce4e0bf661fb"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/nvidia.svg",
+    "bytes": 896,
+    "sha256": "db04aa87719392f22aa280fa0c9086d70d9e805024749747676fea820f7b00b4"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/ollama.svg",
+    "bytes": 4784,
+    "sha256": "8d113044ac7b6a4bea46c335f8410a04976c2e6ae5beaf9fc6b823d90f8b05a0"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/onnx.svg",
+    "bytes": 1812,
+    "sha256": "450a09bea138b49091387d5226e57c2eaa559e7f46b86c2e10100273b8a4bfd7"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/postgresql.svg",
+    "bytes": 9178,
+    "sha256": "f220a436258ed014c512ba4f9c0de6b9e5c2c4b55331a0a29f8c7a1a12c36443"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/prisma.svg",
+    "bytes": 474,
+    "sha256": "0d7625558f360303e7c090d746407569b37bb340d5e358ef0d22d918bad298b0"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/python.svg",
+    "bytes": 2300,
+    "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/qwen.svg",
+    "bytes": 820,
+    "sha256": "189f77fb476f0a399e22ec968b05f6d24ceb9cad258c5cb3355b114f443757d2"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/react.svg",
+    "bytes": 2387,
+    "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/typescript.svg",
+    "bytes": 943,
+    "sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/ubuntu.svg",
+    "bytes": 1187,
+    "sha256": "af8ddf6c709f61d1b7ac00d5417cf389ad23db2258f0776e0c7854f37105caed"
+  },
+  {
+    "path": "html/inbio/assets/images/stack/vite.svg",
+    "bytes": 1276,
+    "sha256": "f84e50febcb3a2a81399c9a1ae76d96dc235428202f91610b6f36bfb5b62051a"
+  },
+  {
+    "path": "html/inbio/assets/js/portfolio-data.js",
+    "bytes": 11670,
+    "sha256": "6f2678ae2645cdeb54ed80c7a2de1295c4e95f0b9a842216379cddeba238340a"
+  },
+  {
+    "path": "html/inbio/assets/js/portfolio.js",
+    "bytes": 14036,
+    "sha256": "ea28ff90745d1b5bcad8f76bade6c9294312c42208c08ca5322bc13a63078f0b"
+  },
+  {
+    "path": "html/inbio/assets/js/project-registry.js",
+    "bytes": 29666,
+    "sha256": "1e83d8d3ac1a1613a487d2b59a013213da22cbed9474f7d2de3239ad92b241ff"
+  },
+  {
+    "path": "html/inbio/assets/js/vendor/bootstrap.js",
+    "bytes": 77227,
+    "sha256": "6eb20d0bb4fa40277134310f91fdb5303cb36034909f01f449f2fc563343e826"
+  },
+  {
+    "path": "html/inbio/assets/js/vendor/feather.min.js",
+    "bytes": 74448,
+    "sha256": "07c0f266265b65b32b728469b5e7474cfa0eaa9c44f6d2dba0318773cc608861"
+  },
+  {
+    "path": "html/inbio/index.html",
+    "bytes": 52234,
+    "sha256": "8a508381c72c001cc83a0fbbc07caf3b072cb44b1e00a1b533c7e1bc53c5b59d"
+  },
+  {
+    "path": "index.html",
+    "bytes": 52905,
+    "sha256": "f7b9a9d2217240deb5d2027c43262bd55be727351910c577d6d0ed2e45f1c027"
+  }
+]

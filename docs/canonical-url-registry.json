@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-10-08",
+  "source": "Supplied project registry + verification snapshot + user-provided URL list",
+  "rule": "Only deploymentStatus=live receives a Launch/View Product action. Other supplied URLs remain references/aliases and are not presented as live deployments.",
+  "urls": [
+    {
+      "project": "Eburon AI",
+      "url": "https://eburon.ai",
+      "status": "live"
+    },
+    {
+      "project": "Eburon Apps",
+      "url": "https://eburon.ai/apps/",
+      "status": "live"
+    },
+    {
+      "project": "Beatrice",
+      "url": "https://voicess.eburon.ai",
+      "status": "unavailable",
+      "role": "historical/alternate"
+    },
+    {
+      "project": "Beatrice OS",
+      "url": "https://oss.eburon.ai",
+      "status": "unavailable",
+      "role": "historical/alternate"
+    },
+    {
+      "project": "Orbit Meeting",
+      "url": "https://orbit.eburon.ai",
+      "status": "unavailable",
+      "role": "historical/alternate"
+    },
+    {
+      "project": "Orbit Meeting",
+      "url": "https://meeting.eburon.ai",
+      "status": "live",
+      "canonical": true
+    },
+    {
+      "project": "Orbit — ABI Tech",
+      "url": "https://orbit.abitech.site",
+      "status": "unavailable",
+      "role": "alternate"
+    },
+    {
+      "project": "Meeting & Translation Platform",
+      "url": "https://meet.abitech.site",
+      "status": "unavailable",
+      "role": "alternate"
+    },
+    {
+      "project": "Dual Translator",
+      "url": "https://eburon-technology.be/en/dual",
+      "status": "live",
+      "canonical": true
+    },
+    {
+      "project": "Dual Translator — Google Play",
+      "url": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+      "status": "live"
+    },
+    {
+      "project": "ABI Tech",
+      "url": "https://abitech.site",
+      "status": "live",
+      "canonical": true
+    },
+    {
+      "project": "ABI Tech",
+      "url": "https://abitech.online",
+      "status": "unavailable",
+      "role": "alternate"
+    },
+    {
+      "project": "EburonFlix",
+      "url": "https://movie.eburon.ai",
+      "status": "live"
+    },
+    {
+      "project": "Abbie Voice Dialer",
+      "url": "https://192-888-702-801.site/dialer/",
+      "status": "live"
+    },
+    {
+      "project": "GitHub",
+      "url": "https://github.com/emilalvaroserrano-collab",
+      "status": "live"
+    },
+    {
+      "project": "CodeBox repository",
+      "url": "https://github.com/emilalvaroserrano-collab/coderbox",
+      "status": "private-source"
+    },
+    {
+      "project": "Spatius Live repository",
+      "url": "https://github.com/emilalvaroserrano-collab/spatiuslive",
+      "status": "source-available"
+    },
+    {
+      "project": "Beatrice OSS repository",
+      "url": "https://github.com/lovegold120221-dot/remix-beatrice-oss",
+      "status": "unavailable"
+    },
+    {
+      "project": "Beatrice Final Voice repository",
+      "url": "https://github.com/lovegold120221-dot/finalvoice",
+      "status": "unavailable"
+    },
+    {
+      "project": "GitHub — additional profile",
+      "url": "https://github.com/panyeroa1",
+      "status": "live"
+    },
+    {
+      "project": "Hugging Face — MasterDee",
+      "url": "https://huggingface.co/MasterDee",
+      "status": "live"
+    },
+    {
+      "project": "Hugging Face — codexxx",
+      "url": "https://huggingface.co/codexxx",
+      "status": "live"
+    },
+    {
+      "project": "Ollama — EburonPro",
+      "url": "https://ollama.com/eburonpro",
+      "status": "live"
+    },
+    {
+      "project": "Ollama — chatgph",
+      "url": "https://ollama.com/chatgph",
+      "status": "live"
+    },
+    {
+      "project": "Ollama — GPH-Emilo",
+      "url": "https://ollama.com/chatgph/gph-main",
+      "status": "live"
+    },
+    {
+      "project": "Ollama — Medix-PH",
+      "url": "https://ollama.com/chatgph/medix-ph",
+      "status": "live"
+    },
+    {
+      "project": "LinkedIn",
+      "url": "https://linkedin.com/in/emil-alvaro-danguilan-a90a01235",
+      "status": "unverified"
+    }
+  ]
+}

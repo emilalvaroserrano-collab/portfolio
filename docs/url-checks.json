@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://eburon.ai",
+    "checkedAt": "2026-10-08T08:44:40.822166+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "Eburon\u2122 | Next-Generation Multimodal AI Engine",
+    "finalUrl": "https://eburon.ai"
+  },
+  {
+    "url": "https://eburon.ai/apps/",
+    "checkedAt": "2026-10-08T08:44:40.823125+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "Eburon \u2014 Applications",
+    "finalUrl": "https://eburon.ai/apps/"
+  },
+  {
+    "url": "https://voicess.eburon.ai",
+    "checkedAt": "2026-10-08T08:44:40.824753+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://oss.eburon.ai",
+    "checkedAt": "2026-10-08T08:44:40.826026+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://orbit.eburon.ai",
+    "checkedAt": "2026-10-08T08:44:40.827014+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://meeting.eburon.ai",
+    "checkedAt": "2026-10-08T08:44:40.829013+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "Orbit Meeting | Real-Time AI Voice Translation",
+    "finalUrl": "https://meeting.eburon.ai"
+  },
+  {
+    "url": "https://orbit.abitech.site",
+    "checkedAt": "2026-10-08T08:44:40.829599+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://meet.abitech.site",
+    "checkedAt": "2026-10-08T08:44:40.830614+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://eburon-technology.be/en/dual",
+    "checkedAt": "2026-10-08T08:44:40.831439+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "Eburon\u2122 Dual Translator",
+    "finalUrl": "https://eburon-technology.be/en/dual"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate",
+    "checkedAt": "2026-10-08T08:44:40.832386+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "",
+    "finalUrl": "https://play.google.com/store/apps/details?id=ai.eburon.dualtranslate"
+  },
+  {
+    "url": "https://abitech.site",
+    "checkedAt": "2026-10-08T08:44:48.595911+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "ABI Tech | AI Implementation & Automation Company in Ortigas, Philippines",
+    "finalUrl": "https://www.abitech.site/"
+  },
+  {
+    "url": "https://abitech.online",
+    "checkedAt": "2026-10-08T08:44:53.197173+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 502,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://movie.eburon.ai",
+    "checkedAt": "2026-10-08T08:44:57.614116+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "EburonFlix - Free Movie No Ads",
+    "finalUrl": "https://movie.eburon.ai"
+  },
+  {
+    "url": "https://192-888-702-801.site/dialer/",
+    "checkedAt": "2026-10-08T08:45:01.627711+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "ABI Tech \u2014 Talk to Abbie",
+    "finalUrl": "https://192-888-702-801.site/dialer/"
+  },
+  {
+    "url": "https://github.com/emilalvaroserrano-collab",
+    "checkedAt": "2026-10-08T08:45:01.803861+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "emilalvaroserrano-collab \u00b7 GitHub",
+    "finalUrl": "https://github.com/emilalvaroserrano-collab"
+  },
+  {
+    "url": "https://github.com/emilalvaroserrano-collab/coderbox",
+    "checkedAt": "2026-10-08T08:45:01.808445+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://github.com/emilalvaroserrano-collab/spatiuslive",
+    "checkedAt": "2026-10-08T08:45:01.872454+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "GitHub - emilalvaroserrano-collab/spatiuslive \u00b7 GitHub",
+    "finalUrl": "https://github.com/emilalvaroserrano-collab/spatiuslive"
+  },
+  {
+    "url": "https://github.com/lovegold120221-dot/remix-beatrice-oss",
+    "checkedAt": "2026-10-08T08:45:01.883977+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://github.com/lovegold120221-dot/finalvoice",
+    "checkedAt": "2026-10-08T08:45:02.175067+00:00",
+    "deploymentStatus": "unavailable",
+    "httpStatus": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://github.com/panyeroa1",
+    "checkedAt": "2026-10-08T08:45:02.624355+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "panyeroa1 (Emil Eburon) \u00b7 GitHub",
+    "finalUrl": "https://github.com/panyeroa1"
+  },
+  {
+    "url": "https://huggingface.co/MasterDee",
+    "checkedAt": "2026-10-08T08:45:02.792565+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "MasterDee (Emil Alvaro Serrano Danguilan)",
+    "finalUrl": "https://huggingface.co/MasterDee"
+  },
+  {
+    "url": "https://huggingface.co/codexxx",
+    "checkedAt": "2026-10-08T08:45:05.749014+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "codexxx (Emil Alvaro Danguilan)",
+    "finalUrl": "https://huggingface.co/codexxx"
+  },
+  {
+    "url": "https://ollama.com/eburonpro",
+    "checkedAt": "2026-10-08T08:45:05.790718+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "eburonpro",
+    "finalUrl": "https://ollama.com/eburonpro"
+  },
+  {
+    "url": "https://ollama.com/chatgph",
+    "checkedAt": "2026-10-08T08:45:06.757063+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "chatgph",
+    "finalUrl": "https://ollama.com/chatgph"
+  },
+  {
+    "url": "https://ollama.com/chatgph/gph-main",
+    "checkedAt": "2026-10-08T08:45:06.757469+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "chatgph/gph-main",
+    "finalUrl": "https://ollama.com/chatgph/gph-main"
+  },
+  {
+    "url": "https://ollama.com/chatgph/medix-ph",
+    "checkedAt": "2026-10-08T08:45:06.764237+00:00",
+    "deploymentStatus": "reachable",
+    "httpStatus": 200,
+    "title": "chatgph/medix-ph",
+    "finalUrl": "https://ollama.com/chatgph/medix-ph"
+  },
+  {
+    "url": "https://linkedin.com/in/emil-alvaro-danguilan-a90a01235",
+    "checkedAt": "2026-10-08T08:45:06.827755+00:00",
+    "deploymentStatus": "unverified",
+    "httpStatus": 200,
+    "title": "Checking your browser - reCAPTCHA",
+    "finalUrl": "https://linkedin.com/in/emil-alvaro-danguilan-a90a01235"
+  }
+]

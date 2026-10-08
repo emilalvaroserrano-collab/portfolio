@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-08",
+  "engine": "Chromium",
+  "viewports": [
+    {
+      "width": 360,
+      "overflow": false,
+      "deviceWidth": 324
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "deviceWidth": 335
+    },
+    {
+      "width": 480,
+      "overflow": false,
+      "deviceWidth": 375
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "deviceWidth": 355
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "deviceWidth": 390
+    }
+  ],
+  "runtimeErrors": [],
+  "failedLocalAssets": [],
+  "entryPoints": [
+    "index.html",
+    "html/inbio/index.html",
+    "file:// direct open"
+  ],
+  "checks": [
+    "Application paging",
+    "Horizontal touch swipes and vertical-scroll preservation",
+    "Category filters",
+    "Verified launch actions",
+    "Private source protection",
+    "Unavailable/pending action gating",
+    "Public code references",
+    "Actual screenshot galleries",
+    "Project and engineering-note modals",
+    "All r\u00e9sum\u00e9 and stack tabs",
+    "Keyboard tab navigation",
+    "Mobile menu",
+    "R\u00e9sum\u00e9 download",
+    "Email-draft and copy fallback"
+  ],
+  "note": "Navigation-cancelled requests and an unhandled mailto protocol are not asset failures. Every packaged local image was also decoded or XML-parsed, and all HTML references were validated."
+}
